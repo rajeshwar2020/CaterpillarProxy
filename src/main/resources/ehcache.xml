@@ -1,0 +1,7 @@
+<defaultCache
+  maxElementsInMemory="2"
+  eternal="false"
+  timeToIdleSeconds="120"
+  timeToLiveSeconds="300"
+  overflowToDisk="true"
+/>
